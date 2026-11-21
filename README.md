@@ -67,8 +67,6 @@ Tiempos del temporizador: 30 s, 1, 2, 3, 5, 10, 15, 20, 25, 30, 45 y 60 min. Pom
    > ⚠️ **Si no lo cambias, el reloj te mostrará el tiempo de la ubicación de ejemplo.** La zona horaria (`TZ_INFO`) está en hora de España peninsular; cámbiala si vives en otra zona horaria.
 6. Sube el sketch a la placa.
 
-> Si publicas tu copia en GitHub, no subas tu WiFi real: vuelve a poner `TU_WIFI` y `TU_PASSWORD` antes de hacer commit.
-
 ## Configuración
 
 Al principio del `.ino` puedes cambiar:
