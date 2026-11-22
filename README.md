@@ -1,3 +1,4 @@
+<img width="1245" height="886" alt="mail google" src="https://github.com/user-attachments/assets/b960dc5a-609e-4ace-b3f2-fa30cc0acae6" />
 # Reloj + tiempo + temporizador + pomodoro (ESP32 + 2 OLED)
 
 Reloj de sobremesa con un ESP32 y dos pantallas OLED SSD1306 de 0,96" (128x64):
